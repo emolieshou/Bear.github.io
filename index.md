@@ -1,4 +1,4 @@
-"Access-Control-Allow-Origin:*"
+<meta http-equiv="Access-Control-Allow-Origin" content="*">
 <table border="0">
   <tr>
     <td width="75%">
