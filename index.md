@@ -1,3 +1,4 @@
+"Access-Control-Allow-Origin:*"
 <table border="0">
   <tr>
     <td width="75%">
