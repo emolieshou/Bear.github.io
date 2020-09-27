@@ -9,7 +9,7 @@
       <p><b>邮编：050043</b></p>
     </td>
     <td width="25%">
-      <img src="/lizeyu.jpg" width="100%">     
+      <img src="/lizeyu.jpg" width="100%"> </img>    
     </td>
   </tr>
 </table>
